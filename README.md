@@ -1,4 +1,4 @@
-Summary: Message Mixer Inc.
+Project: Message Mixer Inc.
 
 Summary:
 
